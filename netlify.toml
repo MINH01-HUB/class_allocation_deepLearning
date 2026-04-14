@@ -1,3 +1,10 @@
+[build]
+  base = "frontend"
+  command = "npm ci && npm run build"
+
 [build.environment]
+  NODE_VERSION = "22"
   PYTHON_VERSION = "3.11"
 
+[[plugins]]
+  package = "@netlify/plugin-nextjs"
