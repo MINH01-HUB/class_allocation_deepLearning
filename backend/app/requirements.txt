@@ -13,7 +13,7 @@ flask-cors==5.0.1
 Flask-SQLAlchemy==3.1.1
 frozenlist==1.6.0
 fsspec==2025.3.2
-greenlet==3.1.1
+greenlet==3.2.5
 idna==3.10
 itsdangerous==2.2.0
 Jinja2==3.1.6
@@ -27,7 +27,7 @@ numpy==2.2.5
 pandas==2.2.3
 propcache==0.3.1
 psutil==7.0.0
-psycopg2-binary==2.9.10
+psycopg2-binary==2.9.11
 pyparsing==3.2.3
 python-dateutil==2.9.0.post0
 python-dotenv==1.1.0
